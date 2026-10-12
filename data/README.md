@@ -1,0 +1,1 @@
+El archivo `sst2_validation_sample.csv` se genera automáticamente al ejecutar el notebook. Se usa GLUE/SST-2 (validation), con semilla 42 y 100 observaciones por clase. No se incluye una copia estática del dataset porque el código descarga la fuente pública y exporta la muestra exacta.

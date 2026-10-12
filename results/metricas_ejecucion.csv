@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision_macro,Recall_macro,F1_macro,Latencia_mediana_ms_texto,Parametros_millones
+DistilBERT,0.875,0.87594,0.875,0.874922,1.457107,66.95501
+BERT,0.92,0.920168,0.92,0.919992,4.069889,109.483778
+RoBERTa,0.925,0.926065,0.925,0.924953,2.974148,124.64717

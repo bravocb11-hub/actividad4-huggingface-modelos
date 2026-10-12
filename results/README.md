@@ -1,0 +1,1 @@
+`metricas_ejecucion.csv` transcribe las métricas de la ejecución adjunta. Al ejecutar el notebook se generan `metrics.csv`, `predictions.csv`, `uncertainty_latency.csv`, `class_metrics.csv`, `run_metadata.json`, gráficos y archivos de errores. Esos archivos deben subirse aquí después de ejecutar en Colab. Las mediciones pueden variar según entorno y carga de GPU.
